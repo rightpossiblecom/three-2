@@ -43,7 +43,7 @@ export default function Home() {
 
           <div className="max-w-4xl mx-auto px-6 text-center relative z-10">
             <h2 className="text-4xl md:text-6xl font-black text-black tracking-tighter mb-8 italic">
-              Ready to focus <br /> on what matters?
+              Ready to focus <br /> on what matters....?
             </h2>
             <p className="text-black/70 text-lg mb-12 max-w-lg mx-auto font-medium">
               Join thousands of people who are reclaiming their time and attention
